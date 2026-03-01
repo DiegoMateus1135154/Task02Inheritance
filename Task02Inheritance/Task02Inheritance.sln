@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36930.0 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricFigures.Backend", "GeometricFigures.Backend\GeometricFigures.Backend.csproj", "{7FE0BAC9-8A2F-497E-AA19-5C1A460E892C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricFigure.Frontend", "GeometricFigure.Frontend\GeometricFigure.Frontend.csproj", "{1531E76E-CC15-42E1-9575-F156A78B9B53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7FE0BAC9-8A2F-497E-AA19-5C1A460E892C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FE0BAC9-8A2F-497E-AA19-5C1A460E892C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FE0BAC9-8A2F-497E-AA19-5C1A460E892C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1531E76E-CC15-42E1-9575-F156A78B9B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1531E76E-CC15-42E1-9575-F156A78B9B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1531E76E-CC15-42E1-9575-F156A78B9B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1531E76E-CC15-42E1-9575-F156A78B9B53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
